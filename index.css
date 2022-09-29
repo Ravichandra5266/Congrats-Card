@@ -1,0 +1,36 @@
+/* Write your code here. */
+* {
+  text-align: center;
+}
+.bgContainer {
+  background-image: url(https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png);
+  height: 100vh;
+  padding: 100px;
+}
+.heading {
+  color: #0f172a;
+}
+.cardBgContainer {
+  background-color: #cffafe;
+  height: 70vh;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #cffafe;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.para {
+  margin-bottom: 15px;
+  color: #1e293b;
+}
+
+.profile_logo {
+  height: 80px;
+}
+
+.watch_logo {
+  height: 80px;
+}
